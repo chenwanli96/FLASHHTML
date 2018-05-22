@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <fonts>
-    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-0-0-2018522192942926.swf" ttfurl="./files/fonts/font-0-0-2018522192942926.ttf"/>
-    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-0-1-2018522192943278.swf" ttfurl="./files/fonts/font-0-1-2018522192943278.ttf"/>
-    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-0-2-2018522192943595.swf" ttfurl="./files/fonts/font-0-2-2018522192943595.ttf"/>
-    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-0-3-2018522192943894.swf" ttfurl="./files/fonts/font-0-3-2018522192943894.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-0-0-2018522194152316.swf" ttfurl="./files/fonts/font-0-0-2018522194152316.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-0-1-2018522194154243.swf" ttfurl="./files/fonts/font-0-1-2018522194154243.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-0-2-201852219415657.swf" ttfurl="./files/fonts/font-0-2-201852219415657.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-0-3-2018522194157927.swf" ttfurl="./files/fonts/font-0-3-2018522194157927.ttf"/>
   </fonts>
 </data>
